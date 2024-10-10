@@ -18,6 +18,9 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 - **CSS**: For basic styling of the game board and buttons.
 - **JavaScript**: To handle game logic, player turns, and win conditions.
 
+### **Preview**
+![preview](preview.png)
+
 ### **How to Play**
 
 1. Open the HTML file in your web browser.
